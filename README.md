@@ -1,6 +1,6 @@
 ### 👋 <em>"Hey you, you're finally awake"</em>
 
-### Hi there, I'm Ítalo
+### Hi there, I'm Ítalo, but you can call me <i>Rory</i>
 
 <a href="https://www.linkedin.com/in/italomagnov/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://www.instagram.com/italomagnov/"><img align="left" width="26px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" /></a>
