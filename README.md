@@ -32,3 +32,4 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomagnov&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=italomagnov&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
