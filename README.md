@@ -1,6 +1,6 @@
-### 👋 <em>"Hey you, you're finally awake"</em>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&lines=Hey%2C+you're+finally+awake)](https://git.io/typing-svg)
 
-### Hi there, I'm Ítalo, but you can call me <i>Rory</i>
+### I'm Ítalo, but you can call me <i>Rory</i>
 
 <a href="https://www.linkedin.com/in/italomagnov/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://www.instagram.com/italomagnov/"><img align="left" width="26px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" /></a>
