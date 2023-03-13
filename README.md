@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&lines=Hey%2C+you're+finally+awake)](https://git.io/typing-svg)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ítalo, but you can call me Rory
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Eu sou o Ítalo, mas pode me chamar de Rory também
 =======================================================================================================================================================
 
 FrontEnd Developer
@@ -10,7 +10,7 @@ FrontEnd Developer
 Sou formado em Sistemas de Informação e atualmente estudo assuntos voltados ao desenvolvimento frontend
 </p>
   
-* 🧠  I'm learning React, Typescript, NextJs and Tailwind
+* 🧠  No momento estou focando meus estudos em React, Typescript e Tailwind
 
 ### Skills
 
