@@ -32,22 +32,3 @@ Sou formado em Sistemas de Informação e atualmente estudo assuntos voltados ao
 
 ---
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<div class='flex-container'>
-<a href="http://www.github.com/italomagnov"><img src="https://github-readme-stats.vercel.app/api?username=italomagnov&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="italomagnov's GitHub stats" /></a>
-
-<a href="https://github.com/italomagnov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomagnov&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
-
-
-
----
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/italomagnov/Lista-de-Compras" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=italomagnov&repo=Lista-de-Compras&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/italomagnov/DevLinks" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=italomagnov&repo=DevLinks&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/italomagnov/digital-clock" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=italomagnov&repo=digital-clock&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/italomagnov/todo-list-react" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=italomagnov&repo=todo-list-react&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en" /></a></div>
