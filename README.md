@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&lines=Hey%2C+you're+finally+awake)](https://git.io/typing-svg)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Eu sou o Ítalo, mas pode me chamar de Rory também
+Oi, eu sou o Ítalo, mas pode me chamar de Rory também.
 =======================================================================================================================================================
 
-FrontEnd Developer
+FullStack Developer
 ------------------
 
-<p>Amo filme de terror e design minimalista.<br>
-Sou formado em Sistemas de Informação e atualmente estudo assuntos voltados ao desenvolvimento frontend
+<p>Naruteiro e o louco do design minimalista.<br>
+Sou formado em Sistemas de Informação e estou sempre estudando algo diferente.
 </p>
   
-* 🧠  No momento estou focando meus estudos em React, Typescript e Tailwind
+* 🧠  No momento estou focando meus estudos na área do Backend, sendo mais preciso em <strong>Java+Spring</strong>.
 
 ### Skills
 
